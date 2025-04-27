@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["common"]
+packages = ["common_server"]
 
 [build-system]
 requires = ["hatchling"]
