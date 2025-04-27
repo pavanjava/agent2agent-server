@@ -1,6 +1,6 @@
 [project]
 name = "agent2agent-server"
-version = "0.0.4"  # This will be updated by the workflow
+version = "0.0.5"  # This will be updated by the workflow
 description = "Agent2Agent server utility and boilerplate code from google."
 readme = "README.md"
 requires-python = ">=3.10"

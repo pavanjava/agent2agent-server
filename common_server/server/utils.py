@@ -1,4 +1,4 @@
-from common.types import (
+from common_server.types import (
     JSONRPCResponse,
     ContentTypeNotSupportedError,
     UnsupportedOperationError,
