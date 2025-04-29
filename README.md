@@ -1,5 +1,5 @@
 # agent2agent-server
-This repository is a wrapper for building google a2a servers, without explicitly copying the code to the native development codebase. This repository support - a2a server core, - a2a server utils,  - a2a server types under the package called commons. Infact this package is direct lift and shift from google's repository.
+This repository provides a streamlined wrapper for building Google A2A servers, eliminating the need to manually copy code into your native development codebase. It includes the core A2A server functionality, utilities, and types, all organized under a package named commons. In fact, the commons package is a direct lift-and-shift from Google's original A2A repository.
 
 # How to install
 ### clone this repository
